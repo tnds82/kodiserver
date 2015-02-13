@@ -1,0 +1,26 @@
+# oscam.server generated automatically by Streamboard OSCAM 1.20-unstable_svn SVN r9969
+# Read more: http://www.streamboard.tv/svn/oscam/trunk/Distribution/doc/txt/oscam.server.txt
+
+[reader]
+label                         = Nome da linha 1
+protocol                      = cccam
+device                        = hostname,porta
+user                          = user
+password                      = pass
+inactivitytimeout             = 30
+group                         = 1
+cccversion                    = 2.0.11
+ccckeepalive                  = 1
+
+[reader]
+label                         = Nome da linha 2
+protocol                      = cccam
+device                        = hostname,porta
+user                          = user
+password                      = pass
+inactivitytimeout             = 30
+group                         = 1
+cccversion                    = 2.0.11
+ccckeepalive                  = 1
+cccreshare                    = 2
+

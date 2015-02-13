@@ -1,0 +1,8 @@
+# oscam.user generated automatically by Streamboard OSCAM 1.20-unstable_svn SVN r10012
+# Read more: http://www.streamboard.tv/svn/oscam/trunk/Distribution/doc/txt/oscam.user.txt
+
+[account]
+user                          = "example"
+pwd                           = "example"
+group                         = 1
+
