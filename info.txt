@@ -1,4 +1,4 @@
-Installation of XBMCServer finish       
+Installation of KODIServer finish       
                                         
 How to access to programs               
                                         
@@ -11,6 +11,13 @@ How to access to programs
 07-TVHeadend          localhost:9981    
 08-Oscam              localhost:8888    
 09-VDR-ADMIN          localhost:8001    
-10-VDR STREAM         localhost:3000    
-11-Transmission       localhost:9091    
-12-Webmin    https://localhost:10000
+10-VDR STREAM         localhost:3000
+11-VDR LIVE           localhost:8008    
+12-Transmission       localhost:9091    
+13-Webmin     https://localhost:10000
+14-Owncloud           localhost/owncloud
+
+Note - OWNCLOUD:
+Click on Storage & Database and choose
+MariaDB put your username and password
+databasename: owncloud
