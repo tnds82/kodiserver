@@ -1,0 +1,16 @@
+KODISERVER : Access to installed Programs
+
+01-CouchPotato    localhost:5050  | 02-SickRage      localhost:8081
+03-Headphones     localhost:8181  | 04-Mylar         localhost:8090
+05-XDM            localhost:8085  | 06-Plex Server   localhost:32400/web
+07-TVHeadend      localhost:9981  | 08-Oscam         localhost:8888
+09-VDR-ADMIN      localhost:8001  | 10-VDR STREAM    localhost:3000
+11-VDR LIVE       localhost:8008  | 12-Transmission  localhost:9091
+13-Webmin https://localhost:10000 | 14-Owncloud      localhost/owncloud
+
+OWNCLOUD: Click on Storage & Database and choose MariaDB put
+your choose user and pass. The databasename: owncloud
+
+VDR LIVE: user: admin / pass: live
+
+Many thanks to "POCKET"
