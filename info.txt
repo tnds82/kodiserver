@@ -17,7 +17,12 @@ How to access to programs
 13-Webmin     https://localhost:10000
 14-Owncloud           localhost/owncloud
 
-Note - OWNCLOUD:
+NOTE:
+OWNCLOUD:
 Click on Storage & Database and choose
 MariaDB put your username and password
 databasename: owncloud
+
+VDR LIVE:
+user: admin
+pass: live
